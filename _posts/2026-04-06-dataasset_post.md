@@ -1,5 +1,6 @@
 
 ---
+layout:post
 title: "Data as a strategic asset"
 date: 2026-04-06
 ---
