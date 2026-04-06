@@ -30,7 +30,7 @@ That’s led us to some questions:
 ## How do you protect data against data leaks and during the migration of applications to the cloud?
 ## How do you discover the necessary data to make better decisions?
  
-The answer is data governance.
+The answer is **data governance**.
 Data governance ensures that data is managed properly in the organisation.
 Going back to our case, data governance includes data security, which defines security policies, authentication, authorization, and audit to protect the data.
  
