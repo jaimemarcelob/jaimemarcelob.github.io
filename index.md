@@ -1,17 +1,20 @@
 ---
 layout: default
+title: Home
 ---
 
-# Welcome 👋
+# 👋 Jaime Marcelo
 
-This is my technical blog.
+Technical Product Owner | Cloud | Data | Enterprise
 
+---
 
 ## 📝 Latest Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url }})
+
+<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+
+---
+{% endfor %}
