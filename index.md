@@ -5,7 +5,7 @@ title: Home
 
 # 👋 Jaime Marcelo
 
-Technical Product Owner | Cloud | Data | Enterprise
+Technical Product Owner |  Cloud |  Data |  Enterprise
 
 ---
 
