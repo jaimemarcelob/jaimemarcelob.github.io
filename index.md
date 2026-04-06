@@ -6,3 +6,5 @@ layout: default
 
 This is my technical blog.
 
+
+## 📝 Latest Posts
